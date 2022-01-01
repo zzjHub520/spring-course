@@ -3,6 +3,38 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/03-入门案例/03-入门案例.iml" filepath="$PROJECT_DIR$/03-入门案例/03-入门案例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-IOC容器（底层原理1）/04-IOC容器（底层原理1）.iml" filepath="$PROJECT_DIR$/04-IOC容器（底层原理1）/04-IOC容器（底层原理1）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-IOC容器（底层原理2）/05-IOC容器（底层原理2）.iml" filepath="$PROJECT_DIR$/05-IOC容器（底层原理2）/05-IOC容器（底层原理2）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-IOC容器（底层原理3）/06-IOC容器（底层原理3）.iml" filepath="$PROJECT_DIR$/06-IOC容器（底层原理3）/06-IOC容器（底层原理3）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）.iml" filepath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/08-IOC容器-Bean管理XML方式（有参构造注入属性）.iml" filepath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/08-IOC容器-Bean管理XML方式（有参构造注入属性）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/09-IOC容器-Bean管理XML方式（p名称空间注入）.iml" filepath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/09-IOC容器-Bean管理XML方式（p名称空间注入）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）.iml" filepath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/11-IOC容器-Bean管理XML方式（注入外部bean）.iml" filepath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/11-IOC容器-Bean管理XML方式（注入外部bean）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）.iml" filepath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/13-IOC容器-Bean管理XML方式（注入集合类型属性1）.iml" filepath="$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/13-IOC容器-Bean管理XML方式（注入集合类型属性1）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/14-IOC容器-Bean管理XML方式（注入集合类型属性2）.iml" filepath="$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/14-IOC容器-Bean管理XML方式（注入集合类型属性2）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/15-IOC容器-Bean管理XML方式（工厂bean）.iml" filepath="$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/15-IOC容器-Bean管理XML方式（工厂bean）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/16-IOC容器-Bean管理XML方式（bean的作用域）.iml" filepath="$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/16-IOC容器-Bean管理XML方式（bean的作用域）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/17-IOC容器-Bean管理XML方式（bean生命周期）.iml" filepath="$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/17-IOC容器-Bean管理XML方式（bean生命周期）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/18-IOC容器-Bean管理XML方式（自动装配）.iml" filepath="$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/18-IOC容器-Bean管理XML方式（自动装配）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/19-IOC容器-Bean管理XML方式（外部属性文件）.iml" filepath="$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/19-IOC容器-Bean管理XML方式（外部属性文件）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/20-IOC容器-Bean管理XML方式（创建对象）.iml" filepath="$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/20-IOC容器-Bean管理XML方式（创建对象）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/21-IOC容器-Bean管理XML方式（组件扫描配置）.iml" filepath="$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/21-IOC容器-Bean管理XML方式（组件扫描配置）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）.iml" filepath="$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）.iml" filepath="$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/24-IOC容器-Bean管理XML方式（完全注解开发）.iml" filepath="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/24-IOC容器-Bean管理XML方式（完全注解开发）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-AOP-基本概念/25-AOP-基本概念.iml" filepath="$PROJECT_DIR$/25-AOP-基本概念/25-AOP-基本概念.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-AOP-底层原理（JDK动态代理实现）/27-AOP-底层原理（JDK动态代理实现）.iml" filepath="$PROJECT_DIR$/27-AOP-底层原理（JDK动态代理实现）/27-AOP-底层原理（JDK动态代理实现）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-AOP-操作术语/28-AOP-操作术语.iml" filepath="$PROJECT_DIR$/28-AOP-操作术语/28-AOP-操作术语.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-AOP-准备工作/29-AOP-准备工作.iml" filepath="$PROJECT_DIR$/29-AOP-准备工作/29-AOP-准备工作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-AOP-AspectJ注解（1）/30-AOP-AspectJ注解（1）.iml" filepath="$PROJECT_DIR$/30-AOP-AspectJ注解（1）/30-AOP-AspectJ注解（1）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-AOP-AspectJ注解（2）/31-AOP-AspectJ注解（2）.iml" filepath="$PROJECT_DIR$/31-AOP-AspectJ注解（2）/31-AOP-AspectJ注解（2）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-AOP-AspectJ配置文件/32-AOP-AspectJ配置文件.iml" filepath="$PROJECT_DIR$/32-AOP-AspectJ配置文件/32-AOP-AspectJ配置文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-JdbcTemplate-概述和准备工作/33-JdbcTemplate-概述和准备工作.iml" filepath="$PROJECT_DIR$/33-JdbcTemplate-概述和准备工作/33-JdbcTemplate-概述和准备工作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40-事务操作-事务概念/40-事务操作-事务概念.iml" filepath="$PROJECT_DIR$/40-事务操作-事务概念/40-事务操作-事务概念.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41-事务操作-搭建事务操作环境/41-事务操作-搭建事务操作环境.iml" filepath="$PROJECT_DIR$/41-事务操作-搭建事务操作环境/41-事务操作-搭建事务操作环境.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42-事务操作-事务场景引入/42-事务操作-事务场景引入.iml" filepath="$PROJECT_DIR$/42-事务操作-事务场景引入/42-事务操作-事务场景引入.iml" />
     </modules>
   </component>
 </project>
