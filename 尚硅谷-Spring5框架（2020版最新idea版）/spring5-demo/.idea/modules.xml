@@ -35,6 +35,15 @@
       <module fileurl="file://$PROJECT_DIR$/40-事务操作-事务概念/40-事务操作-事务概念.iml" filepath="$PROJECT_DIR$/40-事务操作-事务概念/40-事务操作-事务概念.iml" />
       <module fileurl="file://$PROJECT_DIR$/41-事务操作-搭建事务操作环境/41-事务操作-搭建事务操作环境.iml" filepath="$PROJECT_DIR$/41-事务操作-搭建事务操作环境/41-事务操作-搭建事务操作环境.iml" />
       <module fileurl="file://$PROJECT_DIR$/42-事务操作-事务场景引入/42-事务操作-事务场景引入.iml" filepath="$PROJECT_DIR$/42-事务操作-事务场景引入/42-事务操作-事务场景引入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43-事务操作-Spring事务管理介绍/43-事务操作-Spring事务管理介绍.iml" filepath="$PROJECT_DIR$/43-事务操作-Spring事务管理介绍/43-事务操作-Spring事务管理介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44-事务操作-Spring声明式事务管理（注解方式）/44-事务操作-Spring声明式事务管理（注解方式）.iml" filepath="$PROJECT_DIR$/44-事务操作-Spring声明式事务管理（注解方式）/44-事务操作-Spring声明式事务管理（注解方式）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45-事务操作-Spring事务管理-事务参数（传播行为）/45-事务操作-Spring事务管理-事务参数（传播行为）.iml" filepath="$PROJECT_DIR$/45-事务操作-Spring事务管理-事务参数（传播行为）/45-事务操作-Spring事务管理-事务参数（传播行为）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-事务操作-Spring事务管理-事务参数（隔离级别）/46-事务操作-Spring事务管理-事务参数（隔离级别）.iml" filepath="$PROJECT_DIR$/46-事务操作-Spring事务管理-事务参数（隔离级别）/46-事务操作-Spring事务管理-事务参数（隔离级别）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47-事务操作-Spring事务管理-事务参数（其他参数）/47-事务操作-Spring事务管理-事务参数（其他参数）.iml" filepath="$PROJECT_DIR$/47-事务操作-Spring事务管理-事务参数（其他参数）/47-事务操作-Spring事务管理-事务参数（其他参数）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/48-事务操作-Spring事务管理（XML方式）/48-事务操作-Spring事务管理（XML方式）.iml" filepath="$PROJECT_DIR$/48-事务操作-Spring事务管理（XML方式）/48-事务操作-Spring事务管理（XML方式）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49-事务操作-Spring事务管理（完全注解方式）/49-事务操作-Spring事务管理（完全注解方式）.iml" filepath="$PROJECT_DIR$/49-事务操作-Spring事务管理（完全注解方式）/49-事务操作-Spring事务管理（完全注解方式）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50-Spring5新功能-整合日志框架/50-Spring5新功能-整合日志框架.iml" filepath="$PROJECT_DIR$/50-Spring5新功能-整合日志框架/50-Spring5新功能-整合日志框架.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51-Spring5新功能-Nullable注解和函数式注册对象/51-Spring5新功能-Nullable注解和函数式注册对象.iml" filepath="$PROJECT_DIR$/51-Spring5新功能-Nullable注解和函数式注册对象/51-Spring5新功能-Nullable注解和函数式注册对象.iml" />
     </modules>
   </component>
 </project>
