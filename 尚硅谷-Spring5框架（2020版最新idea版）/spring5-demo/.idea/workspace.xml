@@ -2,144 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0feb1b34-ad79-45cb-9bdf-2838ac00e912" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03-入门案例/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-IOC容器-Bean管理XML方式（注入集合类型属性1）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-IOC容器-Bean管理XML方式（注入集合类型属性2）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-IOC容器-Bean管理XML方式（工厂bean）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-IOC容器-Bean管理XML方式（bean的作用域）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-IOC容器-Bean管理XML方式（bean生命周期）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-IOC容器-Bean管理XML方式（自动装配）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-IOC容器-Bean管理XML方式（外部属性文件）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-IOC容器-Bean管理XML方式（创建对象）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-IOC容器-Bean管理XML方式（组件扫描配置）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/doc/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/lib/spring-beans-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/lib/spring-context-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/lib/spring-core-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/lib/spring-expression-5.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/43-事务操作-Spring事务管理介绍/43-事务操作-Spring事务管理介绍.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/44-事务操作-Spring声明式事务管理（注解方式）/44-事务操作-Spring声明式事务管理（注解方式）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45-事务操作-Spring事务管理-事务参数（传播行为）/45-事务操作-Spring事务管理-事务参数（传播行为）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46-事务操作-Spring事务管理-事务参数（隔离级别）/46-事务操作-Spring事务管理-事务参数（隔离级别）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47-事务操作-Spring事务管理-事务参数（其他参数）/47-事务操作-Spring事务管理-事务参数（其他参数）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48-事务操作-Spring事务管理（XML方式）/48-事务操作-Spring事务管理（XML方式）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49-事务操作-Spring事务管理（完全注解方式）/49-事务操作-Spring事务管理（完全注解方式）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50-Spring5新功能-整合日志框架/50-Spring5新功能-整合日志框架.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51-Spring5新功能-Nullable注解和函数式注册对象/51-Spring5新功能-Nullable注解和函数式注册对象.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-入门案例/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/doc/MarkDownImages/readme.assets/image-20220102122059772.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/doc/MarkDownImages/readme.assets/image-20220102124100903.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/doc/MarkDownImages/readme.assets/image-20220102124200470.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/doc/MarkDownImages/readme.assets/image-20220102124100903.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/doc/MarkDownImages/readme.assets/image-20220102124200470.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/src/com/atguigu/spring5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/src/com/atguigu/spring5/testdemo/TestSpring5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/doc/MarkDownImages/readme.assets/image-20220102130026891.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/doc/MarkDownImages/readme.assets/image-20220102130130709.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/doc/MarkDownImages/readme.assets/image-20220102130712438.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/doc/MarkDownImages/readme.assets/image-20220102131108244.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/src/com/atguigu/spring5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/src/com/atguigu/spring5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/src/com/atguigu/spring5/testdemo/TestSpring5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/doc/MarkDownImages/readme.assets/image-20220102133440416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/doc/MarkDownImages/readme.assets/image-20220102133730233-16411018514631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/doc/MarkDownImages/readme.assets/image-20220102133730233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/src/com/atguigu/spring5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/src/com/atguigu/spring5/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/src/com/atguigu/spring5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/src/com/atguigu/spring5/testdemo/TestSpring5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/doc/MarkDownImages/readme.assets/image-20220102135140214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/doc/MarkDownImages/readme.assets/image-20220102135554346.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/src/com/atguigu/spring5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/src/com/atguigu/spring5/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/src/com/atguigu/spring5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/src/com/atguigu/spring5/testdemo/TestSpring5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/doc/MarkDownImages/readme.assets/image-20220102140359373.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/doc/MarkDownImages/readme.assets/image-20220102140804453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/src/com/atguigu/spring5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/src/com/atguigu/spring5/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/src/com/atguigu/spring5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/src/com/atguigu/spring5/testdemo/TestSpring5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/doc/MarkDownImages/readme.assets/image-20220102141042675.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/doc/MarkDownImages/readme.assets/image-20220103003624400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/testdemo/TestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/src/com/atguigu/spring5/testdemo/TestSpring5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/doc/MarkDownImages/readme.assets/image-20220103005236556.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/doc/MarkDownImages/readme.assets/image-20220103005335795.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/doc/MarkDownImages/readme.assets/image-20220103012339999.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/doc/MarkDownImages/readme.assets/image-20220103012447757.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/bean3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/bean4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/ComTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/bean/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/bean/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/testdemo/TestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src/com/atguigu/spring5/testdemo/TestSpring5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-IOC容器（底层原理1）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/04-IOC容器（底层原理1）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-IOC容器（底层原理2）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/05-IOC容器（底层原理2）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-IOC容器（底层原理3）/06-IOC容器（底层原理3）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/06-IOC容器（底层原理3）.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-IOC容器（底层原理3）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/06-IOC容器（底层原理3）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-IOC容器-Bean管理XML方式（创建对象和set注入属性）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/08-IOC容器-Bean管理XML方式（有参构造注入属性）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/08-IOC容器-Bean管理XML方式（有参构造注入属性）.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/08-IOC容器-Bean管理XML方式（有参构造注入属性）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/09-IOC容器-Bean管理XML方式（p名称空间注入）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/09-IOC容器-Bean管理XML方式（p名称空间注入）.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/09-IOC容器-Bean管理XML方式（p名称空间注入）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/10-IOC容器-Bean管理XML方式（注入空值和特殊符号）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/11-IOC容器-Bean管理XML方式（注入外部bean）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/11-IOC容器-Bean管理XML方式（注入外部bean）.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/11-IOC容器-Bean管理XML方式（注入外部bean）/doc/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +107,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -181,26 +136,74 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/24-IOC容器-Bean管理XML方式（完全注解开发）/lib/spring-expression-5.2.6.RELEASE.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.12706482" />
     <property name="project.structure.side.proportion" value="0.14084506" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\24-IOC容器-Bean管理XML方式（完全注解开发）" />
-      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\23-IOC容器-Bean管理XML方式（注入属性@Resource和Value）" />
-      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\22-IOC容器-Bean管理XML方式（注入属性@Autowired和Qualifier）" />
-      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\21-IOC容器-Bean管理XML方式（组件扫描配置）" />
-      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\20-IOC容器-Bean管理XML方式（创建对象）" />
+      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）\src" />
+      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\11-IOC容器-Bean管理XML方式（注入外部bean）\src" />
+      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\10-IOC容器-Bean管理XML方式（注入空值和特殊符号）\src" />
+      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\09-IOC容器-Bean管理XML方式（p名称空间注入）\src" />
+      <recent name="C:\Users\zzj\Documents\workspace\spring\spring-course\尚硅谷-Spring5框架（2020版最新idea版）\spring5-demo\08-IOC容器-Bean管理XML方式（有参构造注入属性）\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.atguigu.spring5.testdemo" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TestSpring5.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="03-入门案例" />
+  <component name="RunManager" selected="JUnit.TestBean.testBean2">
+    <configuration name="TestBean.testAdd (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring5.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring5.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring5.testdemo.TestBean" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBean.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="11-IOC容器-Bean管理XML方式（注入外部bean）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring5.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring5.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring5.testdemo.TestBean" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBean.testBean2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="12-IOC容器-Bean管理XML方式（注入内部bean和级联赋值）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring5.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring5.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring5.testdemo.TestBean" />
+      <option name="METHOD_NAME" value="testBean2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpring5.testBook1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="10-IOC容器-Bean管理XML方式（注入空值和特殊符号）" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.spring5.testdemo.*" />
@@ -209,7 +212,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.spring5.testdemo" />
       <option name="MAIN_CLASS_NAME" value="com.atguigu.spring5.testdemo.TestSpring5" />
-      <option name="METHOD_NAME" value="testAdd" />
+      <option name="METHOD_NAME" value="testBook1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpring5.testBook1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09-IOC容器-Bean管理XML方式（p名称空间注入）" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring5.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring5.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring5.testdemo.TestSpring5" />
+      <option name="METHOD_NAME" value="testBook1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -217,7 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestSpring5.testAdd" />
+        <item itemvalue="JUnit.TestBean.testBean2" />
+        <item itemvalue="JUnit.TestBean.testAdd (1)" />
+        <item itemvalue="JUnit.TestBean.testAdd" />
+        <item itemvalue="JUnit.TestSpring5.testBook1 (1)" />
+        <item itemvalue="JUnit.TestSpring5.testBook1" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +254,9 @@
       <updated>1641059251050</updated>
       <workItem from="1641059252422" duration="867000" />
       <workItem from="1641060783729" duration="2891000" />
-      <workItem from="1641093190699" duration="2462000" />
+      <workItem from="1641093190699" duration="6441000" />
+      <workItem from="1641101238508" duration="816000" />
+      <workItem from="1641102106448" duration="7494000" />
     </task>
     <servers />
   </component>
